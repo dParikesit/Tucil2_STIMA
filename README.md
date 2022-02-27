@@ -22,8 +22,8 @@
 > Pastikan python terinstall pada pc anda
 
 ## How to Run
-> Install dependencies dengan menggunakan `pip install -r requirements.txt`
-> Jalankan cell pada file main.ipynb
+> 1. Install dependencies dengan menggunakan `pip install -r requirements.txt`  
+> 2. Jalankan cell pada file main.ipynb
 
 ## Project Status
 > **Project is: _complete_**
